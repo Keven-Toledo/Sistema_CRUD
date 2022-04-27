@@ -13,6 +13,7 @@ from editext.cores import red, white
 from time import sleep
 
 
+
 def leiaint(mensagem=''):
     """Essa função verifica se o dado informado
     pelo usuário é um número inteiro. Em seguida,
